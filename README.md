@@ -1,7 +1,9 @@
 # landing-on-typescript
+
 Landing on typescript
 
 # What
+
 - Javascript features with a layer on top to add “typing”.
 
 - Typing adds a “description” of the variables.
@@ -26,10 +28,13 @@ Landing on typescript
 
 - Typeof, instanceof
 
-
 ### Basics
 
 - [Documentation](https://www.typescriptlang.org/docs/handbook/basic-types.html)
+
+### Enums
+
+- [Documentation](https://www.typescriptlang.org/docs/handbook/enums.html)
 
 ### Interface
 
@@ -43,10 +48,6 @@ Landing on typescript
 
 - [Documentation](https://www.typescriptlang.org/docs/handbook/classes.html)
 
-### Enums
-
-- [Documentation](https://www.typescriptlang.org/docs/handbook/enums.html)
-
 ### Aliases
 
 - [Documentation](https://www.typescriptlang.org/docs/handbook/advanced-types.html#type-aliases)
@@ -59,9 +60,6 @@ Landing on typescript
 
 - [Documentation](https://www.typescriptlang.org/docs/handbook/utility-types.html)
 
-
-
 ### 5 min
 
 - [Documentation](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-func.html)
-
